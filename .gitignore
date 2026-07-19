@@ -1,0 +1,40 @@
+# Node modules
+**/node_modules/
+
+# Environment files
+.env
+**/.env
+**/.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Build / production output
+dist/
+build/
+**/dist/
+**/build/
+
+# Vite / React
+.vite/
+out/
+*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac / Windows
+.DS_Store
+ehthumbs.db
+Icon?
